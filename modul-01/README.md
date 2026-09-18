@@ -11,6 +11,7 @@
 
 ## 2. Mathematical Equation
 > Tuliskan persamaan fisika/matematika, rumus numerik, atau penurunan rumus yang digunakan dalam modul ini menggunakan format LaTeX.
+
 > F = \frac{9}{5}C + 32
 > R = \frac{4}{5}C
 
